@@ -8,6 +8,7 @@ O objetivo foi aprender como trabalhar com **rotas**, respondendo conteúdos dif
 1. Clone o repositório:
 
 git clone https://github.com/DiasAbraao1/node-basic-server.git
+
 cd node-basic-server
 
 2. Execute o servidor:
