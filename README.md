@@ -8,6 +8,7 @@ O objetivo foi aprender como trabalhar com **rotas**, respondendo conteúdos dif
 1. Clone o repositório:
 
 git clone https://github.com/DiasAbraao1/node-basic-server.git
+cd node-basic-server
 
 2. Execute o servidor:
 
@@ -18,4 +19,4 @@ node.js
 - http://localhost:3000/ -> Página inicial
 - http://localhost:3000/sobre -> Página sobre
 - http://localhost:3000/contato -> Página de Contato
-- Qualquer outra rota retorna 404 - Página não encontrada
+- Qualquer outra rota retorna: 404 - Página não encontrada
